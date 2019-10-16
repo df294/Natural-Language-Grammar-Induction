@@ -1,0 +1,5 @@
+S -> A SA|B SB|A A|B B
+SA -> S A
+SB -> S B
+A -> 'N'
+B -> 'V'
